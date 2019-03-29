@@ -1,0 +1,41 @@
+//: Es división de entero, básicamente tiramos la parte decimal
+10 // 4 = 2
+%: Es el residuo de la división, lo que te sobra.
+**: Exponente
+2**8 = 256
+1 bit
+8 bits
+ # devuelve tipo de valor que es
+ type(5)
+ type('Nonbre')
+
+###########################
+Operadores lógicos: Sirven para realizar comparaciones, devuelven un valor verdadero o falso.
+###########################
+
+Operador	|Descripción				| Ejemplo
+
+and	      |¿se cumple a y b? 	| r=TrueandFalse # r es False
+
+or	      |¿se cumple a o b?	| r=True o False # r es True
+
+not	      | No a							| r=notTrue #r es False
+
+
+###########################
+Operadores relacionales: comparan dos expresiones y devuelven un valor verdadero o falso.
+###########################
+
+Operador	| Descripción 						|	Ejemplo
+
+== 				|	¿Son iguales a y b?			| r=5==3 # r es False
+
+!= 				|	¿Son distintos a y b?		| r=5!=3 # r es True
+
+< 				|	¿Es a menor que b?			| r=5<3 # r es False
+
+> 				|	¿Es a mayor que b?			| r=5>3 3 r es True
+
+<= 				|	¿Es a menor o igual que b?	| r=5<=5 # r es True
+
+>= 				|	¿Es a mayor o igual que b?	| r=5>=3 # r es True
